@@ -1,0 +1,32 @@
+PODS:
+  - AGEVideoLayout (1.0.3)
+  - AgoraMediaPlayer_iOS (1.2.2)
+  - AgoraRtcEngine_iOS (3.3.1)
+  - Floaty (4.2.0)
+  - lame (1.0.0)
+
+DEPENDENCIES:
+  - AGEVideoLayout (~> 1.0.2)
+  - AgoraMediaPlayer_iOS (= 1.2.2)
+  - AgoraRtcEngine_iOS (= 3.3.1)
+  - Floaty (~> 4.2.0)
+  - lame
+
+SPEC REPOS:
+  trunk:
+    - AGEVideoLayout
+    - AgoraMediaPlayer_iOS
+    - AgoraRtcEngine_iOS
+    - Floaty
+    - lame
+
+SPEC CHECKSUMS:
+  AGEVideoLayout: db06e3eedfa1f72c6dfbce9e79b09621002e8197
+  AgoraMediaPlayer_iOS: 40855b4c7042443faf5263e61e71f1a8ae70558a
+  AgoraRtcEngine_iOS: 17e55feec1bde14adc30fd9d743332d1e7821b62
+  Floaty: e2bd5a0f6f7f70899e26ff2da31081c8bee8d1b0
+  lame: 1edb6e24a4e2056b9d1fd90c9fddc10c9aff875d
+
+PODFILE CHECKSUM: d851387263032a3f8ccc18735360b3f877a71321
+
+COCOAPODS: 1.10.1
